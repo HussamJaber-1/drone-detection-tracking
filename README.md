@@ -1,5 +1,7 @@
 # Drone Detection and Tracking Pipeline
 
+## Demo
+[▶ Watch demo video](https://drive.google.com/file/d/1ymFuyoCPFB7WlNUoz-x2xv7cZ2a74MK2/view?usp=sharing)
 YOLOv8 fine-tuned drone detector with ByteTrack multi-object tracking and weighted sensor fusion. Built as a practical skills demonstration for C-UAS (Counter-Unmanned Aircraft Systems) engineering.
 
 ## What it does
